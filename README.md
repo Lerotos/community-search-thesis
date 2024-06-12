@@ -1,5 +1,3 @@
-# Tempus
-
 Requires the [Boost](https://www.boost.org/) library to be installed.
 
 Requires the [oneTBB](https://github.com/oneapi-src/oneTBB) library to be installed.

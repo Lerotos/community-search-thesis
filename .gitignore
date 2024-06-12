@@ -1,0 +1,5 @@
+
+*.json
+*.cmake
+/build/
+/cmake-build-debug/
