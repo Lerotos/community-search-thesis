@@ -1,0 +1,7 @@
+build
+docs/html
+.ycm_extra_conf.py
+
+# Vim swap files
+.*.sw?
+/cmake-build-debug/
